@@ -17,7 +17,7 @@
     "tag": "1.1.1"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "13.0"
   },
   "source_files": "ChooseOptionDropDownView/Classes/**/*",
   "resources": [
@@ -29,7 +29,7 @@
       "~> 9.0.6"
     ],
     "IQKeyboardManagerSwift": [
-      "~> 6.3.0"
+      "~> 6.5.15"
     ]
   },
   "swift_version": "5.0"
