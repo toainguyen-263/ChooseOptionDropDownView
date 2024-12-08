@@ -24,7 +24,7 @@ class DemoVC: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        listAllProducts = getAllItems(count: 100)
+        listAllProducts = getAllItems(count: 5)
         // Do any additional setup after loading the view, typically from a nib.
     }
 
@@ -34,12 +34,15 @@ class DemoVC: UIViewController {
     }
 
     @IBAction func onTouch3(_ sender: Any) {
+        
         let its = listAllProducts.map { pr -> DropDownItem in
             return DropDownItem(id: pr.code, title: pr.name, isSelected: false, subTitle: nil)
         }
-        ChooseOptionBottomDropdownView.chooseOptionBottom(selectedPreviousId: nil, listDropDown: its, title: "CHON ITEM") { item in
+        let vc = ChooseOptionBottomDropdownView.chooseOptionBottomVC(selectedPreviousId: nil, listDropDown: its, title: "CHON ITEM") { item in
             print("---> IT: ", item.getTextSearch())
         }
+        vc.heightHeader = 0
+        vc.show(fromVC: self)
     }
     @IBAction func onTouch2(_ sender: Any) {
     }

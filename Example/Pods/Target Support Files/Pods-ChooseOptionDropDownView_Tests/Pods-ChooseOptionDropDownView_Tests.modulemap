@@ -1,6 +1,0 @@
-framework module Pods_ChooseOptionDropDownView_Tests {
-  umbrella header "Pods-ChooseOptionDropDownView_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}

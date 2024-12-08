@@ -35,7 +35,6 @@
 		43F454A663A935174499F28F5B4EF8CA /* ChooseOptionBottomDropdownView.xib in Sources */ = {isa = PBXBuildFile; fileRef = DB57DC4AB9112B6B901D07338C8015EA /* ChooseOptionBottomDropdownView.xib */; };
 		46BFAC9E7E35D34A892968BFBC96BCFE /* Animator.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AB7AAFF25714D50BF63E0AFE3F16FF /* Animator.swift */; };
 		4C712130984AD309A2C7E80BA348E0CB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79CF7D56C5D50C18B2EA0ED106D998C7 /* Foundation.framework */; };
-		4D09467B661969560111CA58BF91342D /* Pods-ChooseOptionDropDownView_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8647ED5C4B3C78328D176ACC192A08DA /* Pods-ChooseOptionDropDownView_Tests-dummy.m */; };
 		4E220D08F18DA84DAF77ED809405B078 /* infoIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C7370FF28490A3F832905856C4927822 /* infoIcon@2x.png */; };
 		5147CFB7CF41A58C33803B7176269DE2 /* IQTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D0C86964B464E1184E4AFADE36EB691 /* IQTextView.swift */; };
 		53E0680FC0065B463220D6C4D0E0DDAA /* SwiftMessagesSegue.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18F06D9484AB174B53599EA9013D9A5 /* SwiftMessagesSegue.swift */; };
@@ -48,7 +47,6 @@
 		5E1D301D080BE07E52B34A6C446FCA49 /* MaskingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3CE83ACAAE9DACC2E20A06936589D8D /* MaskingView.swift */; };
 		644C6B8507C74F523528190F3A53119F /* CardView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 95E2A4B1E40136D4280BA117854813C9 /* CardView.xib */; };
 		6509ED58319332E5594490C8A321C0F8 /* errorIconSubtle.png in Resources */ = {isa = PBXBuildFile; fileRef = 38FD8FA585429C6EBD46BA2E8B4B6858 /* errorIconSubtle.png */; };
-		6604B6783BC47BA30B1079C89ADD39DD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79CF7D56C5D50C18B2EA0ED106D998C7 /* Foundation.framework */; };
 		68D2A5F0522D0E3ED574114458298D54 /* MarginAdjustable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91AC2258A69DBEE5A273B60D6F909C70 /* MarginAdjustable.swift */; };
 		6B761B1867EB46D539629EA9B0E79861 /* TopBottomAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25F8DE7811845A52A1E79DFE6ABE89A8 /* TopBottomAnimation.swift */; };
 		70A4BB33740883C845CC2CE54EB7E11D /* SwiftMessages-SwiftMessages in Resources */ = {isa = PBXBuildFile; fileRef = 753DD909979478A0C1B33E0524504EF1 /* SwiftMessages-SwiftMessages */; };
@@ -59,7 +57,7 @@
 		7A0E3E37134DBCE84ED8DF3CA2014A82 /* errorIconLight.png in Resources */ = {isa = PBXBuildFile; fileRef = F4FAC732CA67AA36AB33F25A742F473A /* errorIconLight.png */; };
 		7AF4F4B57451E9B23695953FC8ABFADC /* warningIconSubtle@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D2AFA102132C80BE420969A8A7F9FEE /* warningIconSubtle@3x.png */; };
 		7C4C46840D903FF09AAE940B14216BB6 /* errorIconSubtle@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BC13F6A9F576B603D886877A2396090 /* errorIconSubtle@2x.png */; };
-		7EB1F36F3D602BD73E50F9AE8B393F40 /* Pods-ChooseOptionDropDownView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BB542A2DDA922106D31D9EBFC8444E1A /* Pods-ChooseOptionDropDownView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7EB1F36F3D602BD73E50F9AE8B393F40 /* Pods-ChooseOptionDropDownView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D7700C1800B0553C07874DF74E1799FE /* Pods-ChooseOptionDropDownView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7F9BDDD439C7E766C5C1984EA27EDB72 /* SwiftMessages.swift in Sources */ = {isa = PBXBuildFile; fileRef = E88E64D06C0F9CCC03DFE25D431D12CB /* SwiftMessages.swift */; };
 		8388B28D27407F98E4221C9A659C0E22 /* infoIcon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 57C7E6DF82D669D90BD141BA71DE0093 /* infoIcon@3x.png */; };
 		8471B5171644CF09B485251B5120619B /* warningIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 18C9F2135EB29C6E7FFAFF5AC3B1040F /* warningIcon.png */; };
@@ -91,7 +89,6 @@
 		C3629F22EADB26DB87D5EB2062655401 /* UIViewController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48481628881478A7C9B8A5F0173A5C3 /* UIViewController+Extensions.swift */; };
 		C3DBD5F31B722129C419BF04924E83DD /* MessageView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 22C1CA72D0D3BD05C038EAA32344B2A4 /* MessageView.xib */; };
 		C85A9D22733924A9C9F6F25547359A39 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 840FA0B75AF62912A30DDC66B647ED98 /* CoreGraphics.framework */; };
-		C89D76536B64DC1B441AE66EA7B6116B /* Pods-ChooseOptionDropDownView_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E81EEF2FEACDEB22D92D6F7A9187680E /* Pods-ChooseOptionDropDownView_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CA616D06971E3F4C9FAA558666362CD3 /* MessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC935460F8C3FD052A850650E4743FFF /* MessageView.swift */; };
 		CF093F8A23F8945B2030849F8344A584 /* StatusLine.xib in Resources */ = {isa = PBXBuildFile; fileRef = D57B738632DEC01C8B3CA3CD3D407EAB /* StatusLine.xib */; };
 		CFC8BE68A0E0142B08F5C7509C8206A0 /* IQPreviousNextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14582C19BD75435E63990933363003BD /* IQPreviousNextView.swift */; };
@@ -112,7 +109,9 @@
 		EB3F5E374362F0D30383AF82362237A4 /* successIconLight@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 74E2BEB324F3B98772747D90A3BCF1D2 /* successIconLight@3x.png */; };
 		ECA0C7517982AF7F993B97C40619DA30 /* infoIconLight.png in Resources */ = {isa = PBXBuildFile; fileRef = 36B21FDE02A0C7270144E6D2FC438A7A /* infoIconLight.png */; };
 		ED01D0052BDAC8C14AB447CC7923CCC2 /* errorIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 384D7FC751C811D4ADB28E642D6493CE /* errorIcon.png */; };
-		EDCB120EFD8359DC4C13ACAB0848142A /* Pods-ChooseOptionDropDownView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 05FB1B491E4284C13F78D3E2E7C5A4D1 /* Pods-ChooseOptionDropDownView_Example-dummy.m */; };
+		EDCB120EFD8359DC4C13ACAB0848142A /* Pods-ChooseOptionDropDownView_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C80D9B05EBE85B418959B313841B66AC /* Pods-ChooseOptionDropDownView_Example-dummy.m */; };
+		EED091C12C295E79004B3FE4 /* ChooseOptionBottomDropDownVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = EED091C02C295E79004B3FE4 /* ChooseOptionBottomDropDownVC.xib */; };
+		EED091C22C295E79004B3FE4 /* ChooseOptionBottomDropDownVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = EED091BF2C295E79004B3FE4 /* ChooseOptionBottomDropDownVC.swift */; };
 		F3B489017B42D878B84C4B13AE96D0D9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79CF7D56C5D50C18B2EA0ED106D998C7 /* Foundation.framework */; };
 		F55F0D7258C143D3D6D36675A81BB7E3 /* DropDownItemCell.xib in Sources */ = {isa = PBXBuildFile; fileRef = 2A84D8574E41828C701F3C161C599F18 /* DropDownItemCell.xib */; };
 		F5E4749A7D6AF9FECE6795F2F6675B5C /* IQBarButtonItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB2E0686CB47DABFF7E13ABCAAD26F6 /* IQBarButtonItem.swift */; };
@@ -164,13 +163,6 @@
 			remoteGlobalIDString = 957CAFB67820362CC0A1CC93A5C24502;
 			remoteInfo = ChooseOptionDropDownView;
 		};
-		C827359F3FA65D483B3F2428AD71B875 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F8FDB0D8AF3FEED89B235D8F95F53C33;
-			remoteInfo = "Pods-ChooseOptionDropDownView_Example";
-		};
 		D117C7613C331E9A6A05DBDDB8576562 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
@@ -186,17 +178,15 @@
 		0415A09CD22373CEE1EDA49501ADAA32 /* ChooseOptionDropDownView */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ChooseOptionDropDownView; path = ChooseOptionDropDownView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		04D60AC13D33197690A05C641925DDDA /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		053CC725588AF25938B58052B8FED5B0 /* SwiftMessages-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftMessages-umbrella.h"; sourceTree = "<group>"; };
-		05FB1B491E4284C13F78D3E2E7C5A4D1 /* Pods-ChooseOptionDropDownView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ChooseOptionDropDownView_Example-dummy.m"; sourceTree = "<group>"; };
 		07ABB6E79332BB57D147108350D4E994 /* PassthroughView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PassthroughView.swift; path = SwiftMessages/PassthroughView.swift; sourceTree = "<group>"; };
-		08A0577BB25A179301C6820F0450F069 /* Pods-ChooseOptionDropDownView_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ChooseOptionDropDownView_Example-Info.plist"; sourceTree = "<group>"; };
 		0988E53103D31A271BE084864F2F0388 /* IQNSArray+Sort.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQNSArray+Sort.swift"; path = "IQKeyboardManagerSwift/Categories/IQNSArray+Sort.swift"; sourceTree = "<group>"; };
 		0FBF23999712A44B8BE566E303095937 /* warningIconSubtle@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "warningIconSubtle@2x.png"; path = "SwiftMessages/Resources/warningIconSubtle@2x.png"; sourceTree = "<group>"; };
 		1244442B6F652E518851B1D23B106520 /* successIconLight.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = successIconLight.png; path = SwiftMessages/Resources/successIconLight.png; sourceTree = "<group>"; };
 		12979FE0BE296999AF7E0BA39573E4CC /* infoIconLight@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "infoIconLight@2x.png"; path = "SwiftMessages/Resources/infoIconLight@2x.png"; sourceTree = "<group>"; };
 		14582C19BD75435E63990933363003BD /* IQPreviousNextView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQPreviousNextView.swift; path = IQKeyboardManagerSwift/IQToolbar/IQPreviousNextView.swift; sourceTree = "<group>"; };
 		1481E0C5DB9BD77B0EC913F396A75AEF /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = ChooseOptionDropDownView/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		1619DBA48E147969EA6876594E101042 /* Pods-ChooseOptionDropDownView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ChooseOptionDropDownView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		18C9F2135EB29C6E7FFAFF5AC3B1040F /* warningIcon.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = warningIcon.png; path = SwiftMessages/Resources/warningIcon.png; sourceTree = "<group>"; };
-		1A1781B2847D6C16047A2AD8DF1873AE /* Pods-ChooseOptionDropDownView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ChooseOptionDropDownView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		1B8FF0D03A2B04A53CF55D1BAF3286BA /* ChooseOptionDropDownView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ChooseOptionDropDownView.release.xcconfig; sourceTree = "<group>"; };
 		1F6CCB8DC20E1E08243E71E54B19FD0E /* SwiftMessages.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SwiftMessages.modulemap; sourceTree = "<group>"; };
 		21B651EF09DC96DB766BC6C6406865B8 /* ic_search@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "ic_search@3x.png"; sourceTree = "<group>"; };
@@ -209,23 +199,20 @@
 		2A2C82893AA5A09C5127A746666734BD /* warningIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "warningIcon@2x.png"; path = "SwiftMessages/Resources/warningIcon@2x.png"; sourceTree = "<group>"; };
 		2A84D8574E41828C701F3C161C599F18 /* DropDownItemCell.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; name = DropDownItemCell.xib; path = ChooseOptionDropDownView/Classes/DropDownItemCell.xib; sourceTree = "<group>"; };
 		2D30EB13503B9680690EC1DC130257EC /* UIWindow+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIWindow+Extensions.swift"; path = "SwiftMessages/UIWindow+Extensions.swift"; sourceTree = "<group>"; };
-		2DBBA0E1B867A55301C39B1D93F11BAA /* Pods-ChooseOptionDropDownView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ChooseOptionDropDownView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		2EEB07B537D66A3E8577F5F1A8602CB0 /* WindowScene.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WindowScene.swift; path = SwiftMessages/WindowScene.swift; sourceTree = "<group>"; };
-		32CFB0D01950F30017C9FEA7E0CE174A /* Pods-ChooseOptionDropDownView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ChooseOptionDropDownView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		36B21FDE02A0C7270144E6D2FC438A7A /* infoIconLight.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = infoIconLight.png; path = SwiftMessages/Resources/infoIconLight.png; sourceTree = "<group>"; };
 		3804745A25C270CAB131D2B0EE8EAABE /* Theme.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Theme.swift; path = SwiftMessages/Theme.swift; sourceTree = "<group>"; };
 		384D7FC751C811D4ADB28E642D6493CE /* errorIcon.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = errorIcon.png; path = SwiftMessages/Resources/errorIcon.png; sourceTree = "<group>"; };
 		38FD8FA585429C6EBD46BA2E8B4B6858 /* errorIconSubtle.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = errorIconSubtle.png; path = SwiftMessages/Resources/errorIconSubtle.png; sourceTree = "<group>"; };
-		398271F710ADED97578D78583117765E /* Pods-ChooseOptionDropDownView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ChooseOptionDropDownView_Example-frameworks.sh"; sourceTree = "<group>"; };
 		39BEA205415AA8A7C1812D0109277DA5 /* IQKeyboardManager.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = IQKeyboardManager.bundle; path = IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle; sourceTree = "<group>"; };
 		3B13D6A1A49A7EBD67740329F7061ECF /* BackgroundViewable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BackgroundViewable.swift; path = SwiftMessages/BackgroundViewable.swift; sourceTree = "<group>"; };
+		3BE288560E52DCCA42970BE2CAE88E46 /* Pods-ChooseOptionDropDownView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ChooseOptionDropDownView_Example.modulemap"; sourceTree = "<group>"; };
 		3CBBD13270CC8BE1FAACE1AC9DEA1463 /* SwiftMessages-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SwiftMessages-prefix.pch"; sourceTree = "<group>"; };
 		3D2AFA102132C80BE420969A8A7F9FEE /* warningIconSubtle@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "warningIconSubtle@3x.png"; path = "SwiftMessages/Resources/warningIconSubtle@3x.png"; sourceTree = "<group>"; };
 		3D3F3F28B7A761C8F500E35F6AD50001 /* TabView.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; name = TabView.xib; path = SwiftMessages/Resources/TabView.xib; sourceTree = "<group>"; };
 		3D95BBAFC1D8EA58995FD75466D59ECE /* IQToolbar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQToolbar.swift; path = IQKeyboardManagerSwift/IQToolbar/IQToolbar.swift; sourceTree = "<group>"; };
 		3F40DDB76C81BD223F072B891F5F7AF4 /* warningIconLight@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "warningIconLight@2x.png"; path = "SwiftMessages/Resources/warningIconLight@2x.png"; sourceTree = "<group>"; };
 		4094C65DD428168AB993FDCF5BE96D2B /* errorIconLight@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "errorIconLight@3x.png"; path = "SwiftMessages/Resources/errorIconLight@3x.png"; sourceTree = "<group>"; };
-		4115EE3E08EE313B3A9CEDA04A9CD2BD /* Pods-ChooseOptionDropDownView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ChooseOptionDropDownView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		44526D0A504B9ED75FF865710D80784E /* SwiftMessages-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftMessages-dummy.m"; sourceTree = "<group>"; };
 		4824F23D80FF9070A5F8A452DB11EB9A /* SwiftMessages */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwiftMessages; path = SwiftMessages.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		499C5CF495757190948B345BC9EECF6B /* IQUIScrollView+Additions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQUIScrollView+Additions.swift"; path = "IQKeyboardManagerSwift/Categories/IQUIScrollView+Additions.swift"; sourceTree = "<group>"; };
@@ -234,31 +221,26 @@
 		4B25480B99349F098562168C9C9C4A05 /* Error.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Error.swift; path = SwiftMessages/Error.swift; sourceTree = "<group>"; };
 		4EBF18A80ED6B9A461CB27D81260BD39 /* infoIconSubtle@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "infoIconSubtle@2x.png"; path = "SwiftMessages/Resources/infoIconSubtle@2x.png"; sourceTree = "<group>"; };
 		54A34882BE7731C41DAB6117408F6905 /* IQKeyboardManagerSwift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "IQKeyboardManagerSwift-prefix.pch"; sourceTree = "<group>"; };
-		5564161C71A5EA4443EAD695CA57AF11 /* Pods-ChooseOptionDropDownView_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ChooseOptionDropDownView_Tests"; path = Pods_ChooseOptionDropDownView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		55B85589CDA1460FE9A112C652E848B0 /* IQUITextFieldView+Additions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQUITextFieldView+Additions.swift"; path = "IQKeyboardManagerSwift/Categories/IQUITextFieldView+Additions.swift"; sourceTree = "<group>"; };
 		57C7E6DF82D669D90BD141BA71DE0093 /* infoIcon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "infoIcon@3x.png"; path = "SwiftMessages/Resources/infoIcon@3x.png"; sourceTree = "<group>"; };
 		58B78916E9F5FB51066463919FCA5652 /* successIcon.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = successIcon.png; path = SwiftMessages/Resources/successIcon.png; sourceTree = "<group>"; };
 		5A845950636F4B6FD77A117D466A07BC /* UIEdgeInsets+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIEdgeInsets+Extensions.swift"; path = "SwiftMessages/UIEdgeInsets+Extensions.swift"; sourceTree = "<group>"; };
-		5C8391CFA1FE5EB2B871DA89240AB3F6 /* Pods-ChooseOptionDropDownView_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ChooseOptionDropDownView_Tests-Info.plist"; sourceTree = "<group>"; };
 		5F74AF2F2C3792825F591D391AE005AF /* IQKeyboardReturnKeyHandler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQKeyboardReturnKeyHandler.swift; path = IQKeyboardManagerSwift/IQKeyboardReturnKeyHandler.swift; sourceTree = "<group>"; };
 		603049B63C7C6D23CF24AA2661A46976 /* ChooseOptionBottomDropdownView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ChooseOptionBottomDropdownView.swift; path = ChooseOptionDropDownView/Classes/ChooseOptionBottomDropdownView.swift; sourceTree = "<group>"; };
 		6227E47C49D79621B8DFEE7FC3A98DF4 /* NSBundle+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSBundle+Extensions.swift"; path = "SwiftMessages/NSBundle+Extensions.swift"; sourceTree = "<group>"; };
 		62EC9FCE8295BE5DFF04E095FD7DDC5D /* CALayer+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "CALayer+Extensions.swift"; path = "SwiftMessages/CALayer+Extensions.swift"; sourceTree = "<group>"; };
 		633F2D96BEBA47083895514287F6441E /* IQKeyboardManagerConstantsInternal.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQKeyboardManagerConstantsInternal.swift; path = IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstantsInternal.swift; sourceTree = "<group>"; };
 		685FED685792A17B28655883223BA138 /* IQUIView+Hierarchy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQUIView+Hierarchy.swift"; path = "IQKeyboardManagerSwift/Categories/IQUIView+Hierarchy.swift"; sourceTree = "<group>"; };
-		6B170CDEF590CD3B439A3A41FBF624D4 /* Pods-ChooseOptionDropDownView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ChooseOptionDropDownView_Example.modulemap"; sourceTree = "<group>"; };
 		6D1C466137FF9320C414648B7ACEFC27 /* PhysicsAnimation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PhysicsAnimation.swift; path = SwiftMessages/PhysicsAnimation.swift; sourceTree = "<group>"; };
-		6EC6D9C8FD7F54D60566D688A34942F5 /* Pods-ChooseOptionDropDownView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ChooseOptionDropDownView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		6F95CDB43257064DDB969D37DC47EE9B /* Pods-ChooseOptionDropDownView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ChooseOptionDropDownView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		707A03337FF163FBE11CFD01E4CD106F /* Pods-ChooseOptionDropDownView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ChooseOptionDropDownView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		73732FE7CFAA46BE5AEEC013062B0581 /* BaseView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BaseView.swift; path = SwiftMessages/BaseView.swift; sourceTree = "<group>"; };
 		739EDE9DEC3B2D1CECB3F77EC81AECFE /* CornerRoundingView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CornerRoundingView.swift; path = SwiftMessages/CornerRoundingView.swift; sourceTree = "<group>"; };
 		74864114EAEA010F732B6060B77F4459 /* IQKeyboardManagerSwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "IQKeyboardManagerSwift-umbrella.h"; sourceTree = "<group>"; };
 		74E2BEB324F3B98772747D90A3BCF1D2 /* successIconLight@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "successIconLight@3x.png"; path = "SwiftMessages/Resources/successIconLight@3x.png"; sourceTree = "<group>"; };
 		753DD909979478A0C1B33E0524504EF1 /* SwiftMessages-SwiftMessages */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "SwiftMessages-SwiftMessages"; path = SwiftMessages.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		7801CCEE557C928521F7935549C35F1C /* ChooseOptionDropDownView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ChooseOptionDropDownView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		784769B5198A8B96BB3AE953BD395016 /* SanFranciscoDisplay-Medium.OTF */ = {isa = PBXFileReference; includeInIndex = 1; path = "SanFranciscoDisplay-Medium.OTF"; sourceTree = "<group>"; };
+		7801CCEE557C928521F7935549C35F1C /* ChooseOptionDropDownView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ChooseOptionDropDownView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		784769B5198A8B96BB3AE953BD395016 /* SanFranciscoDisplay-Medium.OTF */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "SanFranciscoDisplay-Medium.OTF"; sourceTree = "<group>"; };
 		78EC6415BD21C24C6DA4A3F7FD5A7C12 /* IQUIViewController+Additions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQUIViewController+Additions.swift"; path = "IQKeyboardManagerSwift/Categories/IQUIViewController+Additions.swift"; sourceTree = "<group>"; };
+		7905BFA47E74B8357472200A526E7CC6 /* Pods-ChooseOptionDropDownView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ChooseOptionDropDownView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		79CF7D56C5D50C18B2EA0ED106D998C7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7D0C86964B464E1184E4AFADE36EB691 /* IQTextView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQTextView.swift; path = IQKeyboardManagerSwift/IQTextView/IQTextView.swift; sourceTree = "<group>"; };
 		7EDB38836E4732911A8F267F25E88641 /* WindowViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WindowViewController.swift; path = SwiftMessages/WindowViewController.swift; sourceTree = "<group>"; };
@@ -266,11 +248,12 @@
 		802FEF57185A12AAAB5298E8E59A5193 /* IQKeyboardManagerSwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = IQKeyboardManagerSwift.modulemap; sourceTree = "<group>"; };
 		81E56CF59D2CAC8E4877D3F675633134 /* infoIcon.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = infoIcon.png; path = SwiftMessages/Resources/infoIcon.png; sourceTree = "<group>"; };
 		840FA0B75AF62912A30DDC66B647ED98 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/CoreGraphics.framework; sourceTree = DEVELOPER_DIR; };
-		8647ED5C4B3C78328D176ACC192A08DA /* Pods-ChooseOptionDropDownView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ChooseOptionDropDownView_Tests-dummy.m"; sourceTree = "<group>"; };
+		8474DB0693DDFF453E2736330EDF7C80 /* Pods-ChooseOptionDropDownView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ChooseOptionDropDownView_Example-frameworks.sh"; sourceTree = "<group>"; };
 		891BBCE882ED8DEEF6F3EC5EAE69013A /* DropDownItemCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DropDownItemCell.swift; path = ChooseOptionDropDownView/Classes/DropDownItemCell.swift; sourceTree = "<group>"; };
 		891CFB0AFB5CE751F5E4096819F54AD6 /* KeyboardTrackingView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KeyboardTrackingView.swift; path = SwiftMessages/KeyboardTrackingView.swift; sourceTree = "<group>"; };
 		8BC13F6A9F576B603D886877A2396090 /* errorIconSubtle@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "errorIconSubtle@2x.png"; path = "SwiftMessages/Resources/errorIconSubtle@2x.png"; sourceTree = "<group>"; };
 		8CB157C73B686043D33F3BBB18B77213 /* errorIconLight@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "errorIconLight@2x.png"; path = "SwiftMessages/Resources/errorIconLight@2x.png"; sourceTree = "<group>"; };
+		8D623FE911AFE1E72619CB76D5C406D0 /* Pods-ChooseOptionDropDownView_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ChooseOptionDropDownView_Example-Info.plist"; sourceTree = "<group>"; };
 		91956996ED8006F0FBC371AC042E87BF /* ChooseOptionDropDownView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ChooseOptionDropDownView-Info.plist"; sourceTree = "<group>"; };
 		91AC2258A69DBEE5A273B60D6F909C70 /* MarginAdjustable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MarginAdjustable.swift; path = SwiftMessages/MarginAdjustable.swift; sourceTree = "<group>"; };
 		9475625E36B3C86E928D00A5182FBCDF /* successIcon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "successIcon@3x.png"; path = "SwiftMessages/Resources/successIcon@3x.png"; sourceTree = "<group>"; };
@@ -278,7 +261,7 @@
 		98C5CF22F7FCB37E19EF46F2E79AC2BA /* successIconLight@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "successIconLight@2x.png"; path = "SwiftMessages/Resources/successIconLight@2x.png"; sourceTree = "<group>"; };
 		9A885B16A663D8BE70B86FFD1628AEDD /* warningIcon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "warningIcon@3x.png"; path = "SwiftMessages/Resources/warningIcon@3x.png"; sourceTree = "<group>"; };
 		9D5E40684346FB1ADCB6D21C6784E9B9 /* PassthroughWindow.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PassthroughWindow.swift; path = SwiftMessages/PassthroughWindow.swift; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9F0B106E86229FE1525B0B7B66821F2C /* IQKeyboardManagerSwift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = IQKeyboardManagerSwift.release.xcconfig; sourceTree = "<group>"; };
 		A3CE83ACAAE9DACC2E20A06936589D8D /* MaskingView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MaskingView.swift; path = SwiftMessages/MaskingView.swift; sourceTree = "<group>"; };
 		A42DBD2F42D55606EEBA514009498B87 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
@@ -287,43 +270,45 @@
 		A8E950A16D00F649C54FFB30F81D7842 /* IQKeyboardManagerSwift */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = IQKeyboardManagerSwift; path = IQKeyboardManagerSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADC5F8B790583CDB22516180B530E7E9 /* ChooseOptionDropDownView.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ChooseOptionDropDownView.debug.xcconfig; sourceTree = "<group>"; };
 		AF637B789BDC5B83118D588ED47C3BEF /* AccessibleMessage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AccessibleMessage.swift; path = SwiftMessages/AccessibleMessage.swift; sourceTree = "<group>"; };
-		AFA1150F9FE63FF4BA6CB0C58486937B /* Pods-ChooseOptionDropDownView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ChooseOptionDropDownView_Tests.modulemap"; sourceTree = "<group>"; };
+		B530E937784D8B3351FCFC8AD1CB2E81 /* Pods-ChooseOptionDropDownView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ChooseOptionDropDownView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B613D032A8550B3679F6A89BFC60CFA4 /* successIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "successIcon@2x.png"; path = "SwiftMessages/Resources/successIcon@2x.png"; sourceTree = "<group>"; };
-		B64AA1EF102E6AF1B3CFD371E05C6AEF /* Pods-ChooseOptionDropDownView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ChooseOptionDropDownView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		B737ECB33ACD3DD8F8FACC3DFF446CB3 /* successIconSubtle@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "successIconSubtle@3x.png"; path = "SwiftMessages/Resources/successIconSubtle@3x.png"; sourceTree = "<group>"; };
 		B8C4873680AD4A65BCB19F6CF9E935FB /* ChooseOptionDropDownUtils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ChooseOptionDropDownUtils.swift; path = ChooseOptionDropDownView/Classes/ChooseOptionDropDownUtils.swift; sourceTree = "<group>"; };
 		BA3A2F1649DE7B1233320C85A41756D8 /* ChooseOptionDropDownView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ChooseOptionDropDownView-prefix.pch"; sourceTree = "<group>"; };
 		BAF079F6F70C980DD379D22AB881C84F /* infoIconSubtle.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = infoIconSubtle.png; path = SwiftMessages/Resources/infoIconSubtle.png; sourceTree = "<group>"; };
-		BB542A2DDA922106D31D9EBFC8444E1A /* Pods-ChooseOptionDropDownView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ChooseOptionDropDownView_Example-umbrella.h"; sourceTree = "<group>"; };
 		BC8ECC0FD9C418349CA47D40F54323FB /* Pods-ChooseOptionDropDownView_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ChooseOptionDropDownView_Example"; path = Pods_ChooseOptionDropDownView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C04A17330539534ACA2E05A592C40A2C /* IQKeyboardManagerSwift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = IQKeyboardManagerSwift.debug.xcconfig; sourceTree = "<group>"; };
 		C1E5FF52D323430E2326269809AE35A3 /* errorIcon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "errorIcon@3x.png"; path = "SwiftMessages/Resources/errorIcon@3x.png"; sourceTree = "<group>"; };
 		C7370FF28490A3F832905856C4927822 /* infoIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "infoIcon@2x.png"; path = "SwiftMessages/Resources/infoIcon@2x.png"; sourceTree = "<group>"; };
-		C777547138647EE791EF626CEA68B545 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		C777547138647EE791EF626CEA68B545 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		C80D9B05EBE85B418959B313841B66AC /* Pods-ChooseOptionDropDownView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ChooseOptionDropDownView_Example-dummy.m"; sourceTree = "<group>"; };
 		CC1D434A234D5F990DF9BE0AFBA9AFDE /* infoIconLight@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "infoIconLight@3x.png"; path = "SwiftMessages/Resources/infoIconLight@3x.png"; sourceTree = "<group>"; };
 		CC935460F8C3FD052A850650E4743FFF /* MessageView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MessageView.swift; path = SwiftMessages/MessageView.swift; sourceTree = "<group>"; };
-		CECCA03D1DAF9DF0FB710EA426127FE4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		CECCA03D1DAF9DF0FB710EA426127FE4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CF7251A00C5B0A41111111C3B82997B3 /* IQUIView+IQKeyboardToolbar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "IQUIView+IQKeyboardToolbar.swift"; path = "IQKeyboardManagerSwift/IQToolbar/IQUIView+IQKeyboardToolbar.swift"; sourceTree = "<group>"; };
 		CFD3FCBA75E69078B7E6DAB5DF65468C /* successIconSubtle.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = successIconSubtle.png; path = SwiftMessages/Resources/successIconSubtle.png; sourceTree = "<group>"; };
 		D07945B6BBAF13FABDFBD929FF598EA6 /* navibar_close@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "navibar_close@3x.png"; sourceTree = "<group>"; };
 		D30A8B5E6DA4367F70821C3BA5074F5B /* Weak.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Weak.swift; path = SwiftMessages/Weak.swift; sourceTree = "<group>"; };
 		D57B738632DEC01C8B3CA3CD3D407EAB /* StatusLine.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; name = StatusLine.xib; path = SwiftMessages/Resources/StatusLine.xib; sourceTree = "<group>"; };
 		D6EDC8EDCA815253CB06A632D8435938 /* IQKeyboardManagerSwift-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "IQKeyboardManagerSwift-dummy.m"; sourceTree = "<group>"; };
+		D7700C1800B0553C07874DF74E1799FE /* Pods-ChooseOptionDropDownView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ChooseOptionDropDownView_Example-umbrella.h"; sourceTree = "<group>"; };
 		DB57DC4AB9112B6B901D07338C8015EA /* ChooseOptionBottomDropdownView.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; name = ChooseOptionBottomDropdownView.xib; path = ChooseOptionDropDownView/Classes/ChooseOptionBottomDropdownView.xib; sourceTree = "<group>"; };
 		DBDC283287B011BF7493C0AEA7CF4FD8 /* Presenter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Presenter.swift; path = SwiftMessages/Presenter.swift; sourceTree = "<group>"; };
 		DC68DDB06E8ACF0CC8B0D4AB01D78098 /* successIconSubtle@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "successIconSubtle@2x.png"; path = "SwiftMessages/Resources/successIconSubtle@2x.png"; sourceTree = "<group>"; };
+		DC76CDC5E91FE3A18C12A30009D45679 /* Pods-ChooseOptionDropDownView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ChooseOptionDropDownView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DCCF92BC43859801B91F5D75CC17C2CE /* NSLayoutConstraint+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSLayoutConstraint+Extensions.swift"; path = "SwiftMessages/NSLayoutConstraint+Extensions.swift"; sourceTree = "<group>"; };
 		E2ACA7E2B53016DA90887EA497D92CB3 /* CenteredView.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; name = CenteredView.xib; path = SwiftMessages/Resources/CenteredView.xib; sourceTree = "<group>"; };
 		E2F5565D1F8AB0567595A79D23E0BE2C /* IQKeyboardManagerConstants.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IQKeyboardManagerConstants.swift; path = IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstants.swift; sourceTree = "<group>"; };
 		E3144FD84350A05544E03D2E32CE22EE /* warningIconLight@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "warningIconLight@3x.png"; path = "SwiftMessages/Resources/warningIconLight@3x.png"; sourceTree = "<group>"; };
 		E39F4C83353DAF4C9F6289726A4E394B /* Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Extensions.swift; path = ChooseOptionDropDownView/Classes/Extensions.swift; sourceTree = "<group>"; };
 		E48481628881478A7C9B8A5F0173A5C3 /* UIViewController+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIViewController+Extensions.swift"; path = "SwiftMessages/UIViewController+Extensions.swift"; sourceTree = "<group>"; };
-		E81EEF2FEACDEB22D92D6F7A9187680E /* Pods-ChooseOptionDropDownView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ChooseOptionDropDownView_Tests-umbrella.h"; sourceTree = "<group>"; };
 		E88E64D06C0F9CCC03DFE25D431D12CB /* SwiftMessages.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftMessages.swift; path = SwiftMessages/SwiftMessages.swift; sourceTree = "<group>"; };
 		E9861F9C76C3842C6F56531270169BA6 /* errorIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "errorIcon@2x.png"; path = "SwiftMessages/Resources/errorIcon@2x.png"; sourceTree = "<group>"; };
 		EBCC5FA051EF31107D6F46FD55D8C6A2 /* ResourceBundle-SwiftMessages-SwiftMessages-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-SwiftMessages-SwiftMessages-Info.plist"; sourceTree = "<group>"; };
 		EE47CB2CE76B8F0FD3276003811DC757 /* ChooseOptionDropDownView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ChooseOptionDropDownView.modulemap; sourceTree = "<group>"; };
 		EE70C69F284E85D2CC24ADE5FE6CE11C /* warningIconSubtle.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = warningIconSubtle.png; path = SwiftMessages/Resources/warningIconSubtle.png; sourceTree = "<group>"; };
+		EED091BF2C295E79004B3FE4 /* ChooseOptionBottomDropDownVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseOptionBottomDropDownVC.swift; sourceTree = "<group>"; };
+		EED091C02C295E79004B3FE4 /* ChooseOptionBottomDropDownVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ChooseOptionBottomDropDownVC.xib; sourceTree = "<group>"; };
 		F18F06D9484AB174B53599EA9013D9A5 /* SwiftMessagesSegue.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftMessagesSegue.swift; path = SwiftMessages/SwiftMessagesSegue.swift; sourceTree = "<group>"; };
 		F38DF2E35390C9CE1AE9D052946EDD58 /* IQKeyboardManagerSwift-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "IQKeyboardManagerSwift-Info.plist"; sourceTree = "<group>"; };
 		F4FAC732CA67AA36AB33F25A742F473A /* errorIconLight.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = errorIconLight.png; path = SwiftMessages/Resources/errorIconLight.png; sourceTree = "<group>"; };
@@ -350,14 +335,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				F3B489017B42D878B84C4B13AE96D0D9 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		90804F4C6CAA98A0994B77A95E8F625E /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				6604B6783BC47BA30B1079C89ADD39DD /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -390,15 +367,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		085612A8DC61FA9F15533FEF10CA37F0 /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				CCE5D53C30BDE72ED5E074BB47A28F52 /* Pods-ChooseOptionDropDownView_Example */,
-				8BED85B845105410C0F518FF83F86167 /* Pods-ChooseOptionDropDownView_Tests */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
 		2581A382B50B29FA902CA84A6A546B84 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -424,25 +392,24 @@
 			path = ChooseOptionDropDownView/Assets;
 			sourceTree = "<group>";
 		};
+		27110F77AC1B6B134F16F066F21438DF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0415A09CD22373CEE1EDA49501ADAA32 /* ChooseOptionDropDownView */,
+				A8E950A16D00F649C54FFB30F81D7842 /* IQKeyboardManagerSwift */,
+				BC8ECC0FD9C418349CA47D40F54323FB /* Pods-ChooseOptionDropDownView_Example */,
+				4824F23D80FF9070A5F8A452DB11EB9A /* SwiftMessages */,
+				753DD909979478A0C1B33E0524504EF1 /* SwiftMessages-SwiftMessages */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		35D0EF334AB53F0E1084AC430266CB98 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
 				39BEA205415AA8A7C1812D0109277DA5 /* IQKeyboardManager.bundle */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
-		};
-		42E0BC0BFC675A0539CDE15AC49BB58A /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				0415A09CD22373CEE1EDA49501ADAA32 /* ChooseOptionDropDownView */,
-				A8E950A16D00F649C54FFB30F81D7842 /* IQKeyboardManagerSwift */,
-				BC8ECC0FD9C418349CA47D40F54323FB /* Pods-ChooseOptionDropDownView_Example */,
-				5564161C71A5EA4443EAD695CA57AF11 /* Pods-ChooseOptionDropDownView_Tests */,
-				4824F23D80FF9070A5F8A452DB11EB9A /* SwiftMessages */,
-				753DD909979478A0C1B33E0524504EF1 /* SwiftMessages-SwiftMessages */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		5CA76B7A9E28A2D7B17DB7A69621C2BA /* Development Pods */ = {
@@ -475,7 +442,6 @@
 				35D0EF334AB53F0E1084AC430266CB98 /* Resources */,
 				7C6DC0309D045E89D0D527FB232D41C2 /* Support Files */,
 			);
-			name = IQKeyboardManagerSwift;
 			path = IQKeyboardManagerSwift;
 			sourceTree = "<group>";
 		};
@@ -542,12 +508,19 @@
 			path = "../Target Support Files/IQKeyboardManagerSwift";
 			sourceTree = "<group>";
 		};
+		833BB859DBF586465DDD6C74D6B3156F /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				9FEC829C6A93659E9B577C7CEE1621CA /* Pods-ChooseOptionDropDownView_Example */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
 		87E5CB7E6F5CB970DD9240FBE4F3DBB2 /* ic_search.imageset */ = {
 			isa = PBXGroup;
 			children = (
 				21B651EF09DC96DB766BC6C6406865B8 /* ic_search@3x.png */,
 			);
-			name = ic_search.imageset;
 			path = ic_search.imageset;
 			sourceTree = "<group>";
 		};
@@ -560,22 +533,6 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		8BED85B845105410C0F518FF83F86167 /* Pods-ChooseOptionDropDownView_Tests */ = {
-			isa = PBXGroup;
-			children = (
-				AFA1150F9FE63FF4BA6CB0C58486937B /* Pods-ChooseOptionDropDownView_Tests.modulemap */,
-				6F95CDB43257064DDB969D37DC47EE9B /* Pods-ChooseOptionDropDownView_Tests-acknowledgements.markdown */,
-				B64AA1EF102E6AF1B3CFD371E05C6AEF /* Pods-ChooseOptionDropDownView_Tests-acknowledgements.plist */,
-				8647ED5C4B3C78328D176ACC192A08DA /* Pods-ChooseOptionDropDownView_Tests-dummy.m */,
-				5C8391CFA1FE5EB2B871DA89240AB3F6 /* Pods-ChooseOptionDropDownView_Tests-Info.plist */,
-				E81EEF2FEACDEB22D92D6F7A9187680E /* Pods-ChooseOptionDropDownView_Tests-umbrella.h */,
-				1A1781B2847D6C16047A2AD8DF1873AE /* Pods-ChooseOptionDropDownView_Tests.debug.xcconfig */,
-				2DBBA0E1B867A55301C39B1D93F11BAA /* Pods-ChooseOptionDropDownView_Tests.release.xcconfig */,
-			);
-			name = "Pods-ChooseOptionDropDownView_Tests";
-			path = "Target Support Files/Pods-ChooseOptionDropDownView_Tests";
-			sourceTree = "<group>";
-		};
 		8E77215E16ADA2BAAF283F5F2EF8CBE9 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
@@ -584,6 +541,23 @@
 				CECCA03D1DAF9DF0FB710EA426127FE4 /* README.md */,
 			);
 			name = Pod;
+			sourceTree = "<group>";
+		};
+		9FEC829C6A93659E9B577C7CEE1621CA /* Pods-ChooseOptionDropDownView_Example */ = {
+			isa = PBXGroup;
+			children = (
+				3BE288560E52DCCA42970BE2CAE88E46 /* Pods-ChooseOptionDropDownView_Example.modulemap */,
+				B530E937784D8B3351FCFC8AD1CB2E81 /* Pods-ChooseOptionDropDownView_Example-acknowledgements.markdown */,
+				1619DBA48E147969EA6876594E101042 /* Pods-ChooseOptionDropDownView_Example-acknowledgements.plist */,
+				C80D9B05EBE85B418959B313841B66AC /* Pods-ChooseOptionDropDownView_Example-dummy.m */,
+				8474DB0693DDFF453E2736330EDF7C80 /* Pods-ChooseOptionDropDownView_Example-frameworks.sh */,
+				8D623FE911AFE1E72619CB76D5C406D0 /* Pods-ChooseOptionDropDownView_Example-Info.plist */,
+				D7700C1800B0553C07874DF74E1799FE /* Pods-ChooseOptionDropDownView_Example-umbrella.h */,
+				DC76CDC5E91FE3A18C12A30009D45679 /* Pods-ChooseOptionDropDownView_Example.debug.xcconfig */,
+				7905BFA47E74B8357472200A526E7CC6 /* Pods-ChooseOptionDropDownView_Example.release.xcconfig */,
+			);
+			name = "Pods-ChooseOptionDropDownView_Example";
+			path = "Target Support Files/Pods-ChooseOptionDropDownView_Example";
 			sourceTree = "<group>";
 		};
 		A102C3BA70A361AC92133DB7DB30B6B5 /* App */ = {
@@ -640,7 +614,6 @@
 				A102C3BA70A361AC92133DB7DB30B6B5 /* App */,
 				FBE95F13109792BB5D59204E5FE5F324 /* Support Files */,
 			);
-			name = SwiftMessages;
 			path = SwiftMessages;
 			sourceTree = "<group>";
 		};
@@ -649,13 +622,14 @@
 			children = (
 				D07945B6BBAF13FABDFBD929FF598EA6 /* navibar_close@3x.png */,
 			);
-			name = navibar_close.imageset;
 			path = navibar_close.imageset;
 			sourceTree = "<group>";
 		};
 		B7C4E286FE9DE9141DF6F8F29643C1AE /* ChooseOptionDropDownView */ = {
 			isa = PBXGroup;
 			children = (
+				EED091BF2C295E79004B3FE4 /* ChooseOptionBottomDropDownVC.swift */,
+				EED091C02C295E79004B3FE4 /* ChooseOptionBottomDropDownVC.xib */,
 				603049B63C7C6D23CF24AA2661A46976 /* ChooseOptionBottomDropdownView.swift */,
 				DB57DC4AB9112B6B901D07338C8015EA /* ChooseOptionBottomDropdownView.xib */,
 				B8C4873680AD4A65BCB19F6CF9E935FB /* ChooseOptionDropDownUtils.swift */,
@@ -680,23 +654,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		CCE5D53C30BDE72ED5E074BB47A28F52 /* Pods-ChooseOptionDropDownView_Example */ = {
-			isa = PBXGroup;
-			children = (
-				6B170CDEF590CD3B439A3A41FBF624D4 /* Pods-ChooseOptionDropDownView_Example.modulemap */,
-				6EC6D9C8FD7F54D60566D688A34942F5 /* Pods-ChooseOptionDropDownView_Example-acknowledgements.markdown */,
-				32CFB0D01950F30017C9FEA7E0CE174A /* Pods-ChooseOptionDropDownView_Example-acknowledgements.plist */,
-				05FB1B491E4284C13F78D3E2E7C5A4D1 /* Pods-ChooseOptionDropDownView_Example-dummy.m */,
-				398271F710ADED97578D78583117765E /* Pods-ChooseOptionDropDownView_Example-frameworks.sh */,
-				08A0577BB25A179301C6820F0450F069 /* Pods-ChooseOptionDropDownView_Example-Info.plist */,
-				BB542A2DDA922106D31D9EBFC8444E1A /* Pods-ChooseOptionDropDownView_Example-umbrella.h */,
-				707A03337FF163FBE11CFD01E4CD106F /* Pods-ChooseOptionDropDownView_Example.debug.xcconfig */,
-				4115EE3E08EE313B3A9CEDA04A9CD2BD /* Pods-ChooseOptionDropDownView_Example.release.xcconfig */,
-			);
-			name = "Pods-ChooseOptionDropDownView_Example";
-			path = "Target Support Files/Pods-ChooseOptionDropDownView_Example";
-			sourceTree = "<group>";
-		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
@@ -704,8 +661,8 @@
 				5CA76B7A9E28A2D7B17DB7A69621C2BA /* Development Pods */,
 				BA4F31F07263C99FC76E66D632A59F09 /* Frameworks */,
 				8BAE7FF28AFD55D477AD707E282A7E6D /* Pods */,
-				42E0BC0BFC675A0539CDE15AC49BB58A /* Products */,
-				085612A8DC61FA9F15533FEF10CA37F0 /* Targets Support Files */,
+				27110F77AC1B6B134F16F066F21438DF /* Products */,
+				833BB859DBF586465DDD6C74D6B3156F /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -744,14 +701,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				C03D2E35F8BCFA2CC982ACCFE61D6F9E /* IQKeyboardManagerSwift-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		6FA26C27797BED8402ABE018BD30BB6B /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				C89D76536B64DC1B441AE66EA7B6116B /* Pods-ChooseOptionDropDownView_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -837,25 +786,6 @@
 			productReference = A8E950A16D00F649C54FFB30F81D7842 /* IQKeyboardManagerSwift */;
 			productType = "com.apple.product-type.framework";
 		};
-		C09748074AB9E8A12876DE78C2360F72 /* Pods-ChooseOptionDropDownView_Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 5FC8A2D30201B6BD7C6936C01E462416 /* Build configuration list for PBXNativeTarget "Pods-ChooseOptionDropDownView_Tests" */;
-			buildPhases = (
-				6FA26C27797BED8402ABE018BD30BB6B /* Headers */,
-				8323A0742DCA869CE2C11AE3D2ECD823 /* Sources */,
-				90804F4C6CAA98A0994B77A95E8F625E /* Frameworks */,
-				4D9B45121169864F2383402C94E2E985 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				BF6DEDCBDD937FAEAD39962C6CC72561 /* PBXTargetDependency */,
-			);
-			name = "Pods-ChooseOptionDropDownView_Tests";
-			productName = Pods_ChooseOptionDropDownView_Tests;
-			productReference = 5564161C71A5EA4443EAD695CA57AF11 /* Pods-ChooseOptionDropDownView_Tests */;
-			productType = "com.apple.product-type.framework";
-		};
 		DAB613A18652334F6BFC5F27BADF515D /* SwiftMessages */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = E6A56D1ABD1E282B2E71BB6C1853AC88 /* Build configuration list for PBXNativeTarget "SwiftMessages" */;
@@ -914,14 +844,13 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = 42E0BC0BFC675A0539CDE15AC49BB58A /* Products */;
+			productRefGroup = 27110F77AC1B6B134F16F066F21438DF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				957CAFB67820362CC0A1CC93A5C24502 /* ChooseOptionDropDownView */,
 				B490E7485944099E16C9CBD79119D1D4 /* IQKeyboardManagerSwift */,
 				F8FDB0D8AF3FEED89B235D8F95F53C33 /* Pods-ChooseOptionDropDownView_Example */,
-				C09748074AB9E8A12876DE78C2360F72 /* Pods-ChooseOptionDropDownView_Tests */,
 				DAB613A18652334F6BFC5F27BADF515D /* SwiftMessages */,
 				93789445511E3FEAB3D09A6F552EEE2D /* SwiftMessages-SwiftMessages */,
 			);
@@ -984,13 +913,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4D9B45121169864F2383402C94E2E985 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		856F27F2D590183815E93941B5C3747F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1011,6 +933,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EED091C12C295E79004B3FE4 /* ChooseOptionBottomDropDownVC.xib in Resources */,
 				3C156360BDAA3FB57506E0BE96B6E993 /* ic_search@3x.png in Resources */,
 				D0F2C860E6F920ED4E1371B724CCC0A6 /* navibar_close@3x.png in Resources */,
 				30A81D9EF6E0B5791BDC6C8DF8F5CF2D /* SanFranciscoDisplay-Medium.OTF in Resources */,
@@ -1066,19 +989,12 @@
 				343982158BDE8F40AC84ACB28C88EA7B /* ChooseOptionBottomDropdownView.swift in Sources */,
 				43F454A663A935174499F28F5B4EF8CA /* ChooseOptionBottomDropdownView.xib in Sources */,
 				751B8138C2A19DB8EBADD80547A2EA3D /* ChooseOptionDropDownUtils.swift in Sources */,
+				EED091C22C295E79004B3FE4 /* ChooseOptionBottomDropDownVC.swift in Sources */,
 				8B48106CB2DB305E85552DA43142D730 /* ChooseOptionDropDownView-dummy.m in Sources */,
 				330313CCBE609F47163433DD4A896956 /* DropDownItemCell.swift in Sources */,
 				F55F0D7258C143D3D6D36675A81BB7E3 /* DropDownItemCell.xib in Sources */,
 				3C2D287E57C61213EB59A616A8C56F29 /* Extensions.swift in Sources */,
 				55CF374396BCDBA8800B66CD3BB02D0A /* ReplaceMe.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8323A0742DCA869CE2C11AE3D2ECD823 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4D09467B661969560111CA58BF91342D /* Pods-ChooseOptionDropDownView_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1154,12 +1070,6 @@
 			target = 957CAFB67820362CC0A1CC93A5C24502 /* ChooseOptionDropDownView */;
 			targetProxy = A56F26390A96B7E13AACE2FA43B07A9F /* PBXContainerItemProxy */;
 		};
-		BF6DEDCBDD937FAEAD39962C6CC72561 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-ChooseOptionDropDownView_Example";
-			target = F8FDB0D8AF3FEED89B235D8F95F53C33 /* Pods-ChooseOptionDropDownView_Example */;
-			targetProxy = C827359F3FA65D483B3F2428AD71B875 /* PBXContainerItemProxy */;
-		};
 		DEE622D4FB280B0B91FBC1AE999AB43D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "SwiftMessages-SwiftMessages";
@@ -1169,79 +1079,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		1D4279D1D9C294592E296E9DF8466A2B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1A1781B2847D6C16047A2AD8DF1873AE /* Pods-ChooseOptionDropDownView_Tests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGNING_ALLOWED = NO;
-				CODE_SIGNING_REQUIRED = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				EXPANDED_CODE_SIGN_IDENTITY = "";
-				INFOPLIST_FILE = "Target Support Files/Pods-ChooseOptionDropDownView_Tests/Pods-ChooseOptionDropDownView_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-ChooseOptionDropDownView_Tests/Pods-ChooseOptionDropDownView_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		205C8EC74715F5DB2B59C0DB5A64C618 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2DBBA0E1B867A55301C39B1D93F11BAA /* Pods-ChooseOptionDropDownView_Tests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGNING_ALLOWED = NO;
-				CODE_SIGNING_REQUIRED = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				EXPANDED_CODE_SIGN_IDENTITY = "";
-				INFOPLIST_FILE = "Target Support Files/Pods-ChooseOptionDropDownView_Tests/Pods-ChooseOptionDropDownView_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-ChooseOptionDropDownView_Tests/Pods-ChooseOptionDropDownView_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		32B83548D55BD6B3403FE7D3B001BCCE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 240539A5D4847A5CE16387269832776B /* SwiftMessages.debug.xcconfig */;
@@ -1256,11 +1093,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				EXPANDED_CODE_SIGN_IDENTITY = "";
 				GCC_PREFIX_HEADER = "Target Support Files/SwiftMessages/SwiftMessages-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SwiftMessages/SwiftMessages-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/SwiftMessages/SwiftMessages.modulemap";
 				PRODUCT_MODULE_NAME = SwiftMessages;
@@ -1282,10 +1120,11 @@
 				CODE_SIGNING_ALLOWED = NO;
 				CODE_SIGNING_REQUIRED = NO;
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SwiftMessages";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				EXPANDED_CODE_SIGN_IDENTITY = "";
 				IBSC_MODULE = SwiftMessages;
 				INFOPLIST_FILE = "Target Support Files/SwiftMessages/ResourceBundle-SwiftMessages-SwiftMessages-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				PRODUCT_NAME = SwiftMessages;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1296,7 +1135,7 @@
 		};
 		5E03B1E0F1B616F715A13A9CC3C05625 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 707A03337FF163FBE11CFD01E4CD106F /* Pods-ChooseOptionDropDownView_Example.debug.xcconfig */;
+			baseConfigurationReference = DC76CDC5E91FE3A18C12A30009D45679 /* Pods-ChooseOptionDropDownView_Example.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -1310,10 +1149,11 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				EXPANDED_CODE_SIGN_IDENTITY = "";
 				INFOPLIST_FILE = "Target Support Files/Pods-ChooseOptionDropDownView_Example/Pods-ChooseOptionDropDownView_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-ChooseOptionDropDownView_Example/Pods-ChooseOptionDropDownView_Example.modulemap";
@@ -1344,11 +1184,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				EXPANDED_CODE_SIGN_IDENTITY = "";
 				GCC_PREFIX_HEADER = "Target Support Files/SwiftMessages/SwiftMessages-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SwiftMessages/SwiftMessages-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/SwiftMessages/SwiftMessages.modulemap";
 				PRODUCT_MODULE_NAME = SwiftMessages;
@@ -1378,11 +1219,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				EXPANDED_CODE_SIGN_IDENTITY = "";
 				GCC_PREFIX_HEADER = "Target Support Files/IQKeyboardManagerSwift/IQKeyboardManagerSwift-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/IQKeyboardManagerSwift/IQKeyboardManagerSwift-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/IQKeyboardManagerSwift/IQKeyboardManagerSwift.modulemap";
 				PRODUCT_MODULE_NAME = IQKeyboardManagerSwift;
@@ -1412,11 +1254,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				EXPANDED_CODE_SIGN_IDENTITY = "";
 				GCC_PREFIX_HEADER = "Target Support Files/ChooseOptionDropDownView/ChooseOptionDropDownView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/ChooseOptionDropDownView/ChooseOptionDropDownView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/ChooseOptionDropDownView/ChooseOptionDropDownView.modulemap";
 				PRODUCT_MODULE_NAME = ChooseOptionDropDownView;
@@ -1486,8 +1329,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -1507,11 +1349,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				EXPANDED_CODE_SIGN_IDENTITY = "";
 				GCC_PREFIX_HEADER = "Target Support Files/IQKeyboardManagerSwift/IQKeyboardManagerSwift-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/IQKeyboardManagerSwift/IQKeyboardManagerSwift-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/IQKeyboardManagerSwift/IQKeyboardManagerSwift.modulemap";
 				PRODUCT_MODULE_NAME = IQKeyboardManagerSwift;
@@ -1529,7 +1372,7 @@
 		};
 		95E79D2C7D1797F12755D80402E9571F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4115EE3E08EE313B3A9CEDA04A9CD2BD /* Pods-ChooseOptionDropDownView_Example.release.xcconfig */;
+			baseConfigurationReference = 7905BFA47E74B8357472200A526E7CC6 /* Pods-ChooseOptionDropDownView_Example.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -1543,10 +1386,11 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				EXPANDED_CODE_SIGN_IDENTITY = "";
 				INFOPLIST_FILE = "Target Support Files/Pods-ChooseOptionDropDownView_Example/Pods-ChooseOptionDropDownView_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-ChooseOptionDropDownView_Example/Pods-ChooseOptionDropDownView_Example.modulemap";
@@ -1571,10 +1415,11 @@
 				CODE_SIGNING_ALLOWED = NO;
 				CODE_SIGNING_REQUIRED = NO;
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SwiftMessages";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				EXPANDED_CODE_SIGN_IDENTITY = "";
 				IBSC_MODULE = SwiftMessages;
 				INFOPLIST_FILE = "Target Support Files/SwiftMessages/ResourceBundle-SwiftMessages-SwiftMessages-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				PRODUCT_NAME = SwiftMessages;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1664,11 +1509,12 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;
 				EXPANDED_CODE_SIGN_IDENTITY = "";
 				GCC_PREFIX_HEADER = "Target Support Files/ChooseOptionDropDownView/ChooseOptionDropDownView-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/ChooseOptionDropDownView/ChooseOptionDropDownView-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/ChooseOptionDropDownView/ChooseOptionDropDownView.modulemap";
 				PRODUCT_MODULE_NAME = ChooseOptionDropDownView;
@@ -1710,15 +1556,6 @@
 			buildConfigurations = (
 				D299434AB35E7FD6F7921C8EF24742FF /* Debug */,
 				7EE7A78859F657F6BEFC651185B43192 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		5FC8A2D30201B6BD7C6936C01E462416 /* Build configuration list for PBXNativeTarget "Pods-ChooseOptionDropDownView_Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				1D4279D1D9C294592E296E9DF8466A2B /* Debug */,
-				205C8EC74715F5DB2B59C0DB5A64C618 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

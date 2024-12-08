@@ -304,4 +304,44 @@ extension ChooseOptionBottomDropdownView {
         return view
     
     }
+    
+    public class func chooseOptionBottomVC(selectedPreviousId: String?,
+                                           listDropDown: [DropDownItem],
+                                           title: String,
+                                           multiChoice: Bool = true,
+                                           checkmarkColor: UIColor = UIColor(red: 0.02, green: 0.376, blue: 0.651, alpha: 1),
+                                           didChooseItem: @escaping ((_ item: DropDownItem)->())) -> ChooseOptionBottomDropDownVC {
+        let items = listDropDown
+        for item in items {
+            item.isSelected = selectedPreviousId == item.id
+        }
+        let vc = ChooseOptionBottomDropDownVC(title: title,
+                                     isShowSearch: true,
+                                     cellName: "DropDownItemCell",
+                                     cellBundle: Bundle(for: DropDownItemCell.self)) { section in
+            return listDropDown.count
+        } configCell: { indexPath, cell in
+            let data = listDropDown[indexPath.row]
+            let cellConfig = cell as? DropDownItemCell
+            cellConfig?.item = data
+            cellConfig?.tintColor = checkmarkColor
+            if data.isSelected {
+                cellConfig?.accessoryType = .checkmark
+            } else {
+                cellConfig?.accessoryType = .none
+            }
+        }
+        vc.didChangeTextSearch = { [unowned vc] text in
+            
+            if let txt = text?.lowercased().removeSignVietnamese(), !txt.isEmpty {
+               let  listDisplay = listDropDown.filter({$0.getTextSearch().lowercased().removeSignVietnamese().contains(txt)})
+            } else {
+               let listDisplay = listDropDown
+                vc.reloadData(count: 0)
+            }
+            
+        }
+        return vc
+        
+    }
 }

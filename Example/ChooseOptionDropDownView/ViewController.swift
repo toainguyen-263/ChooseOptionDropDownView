@@ -42,9 +42,10 @@ class ViewController: UIViewController {
         let its = listAllProducts.map { pr -> DropDownItem in
             return DropDownItem(id: pr.code, title: pr.name, isSelected: false, subTitle: nil)
         }
-        ChooseOptionBottomDropdownView.chooseOptionBottom(selectedPreviousId: nil, listDropDown: its, title: "CHON ITEM") { item in
+        let vc = ChooseOptionBottomDropdownView.chooseOptionBottomVC(selectedPreviousId: nil, listDropDown: its, title: "CHON ITEM") { item in
             print("---> IT: ", item.getTextSearch())
         }
+        vc.show(fromVC: self)
     }
     @IBAction func onTouch2(_ sender: Any) {
     }
