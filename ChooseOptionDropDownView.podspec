@@ -28,7 +28,7 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/quannguyen90/ChooseOptionDropDownView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '13.0'
 
   s.source_files = 'ChooseOptionDropDownView/Classes/**/*'  
   s.resources = ["ChooseOptionDropDownView/Fonts/*.{OTF,ttf}", 'ChooseOptionDropDownView/Assets/**/*.{png,pdf}']
@@ -40,5 +40,5 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
    s.dependency 'SwiftMessages', '~> 9.0.6'
-   s.dependency 'IQKeyboardManagerSwift', '~> 6.3.0'
+   s.dependency 'IQKeyboardManagerSwift', '~> 6.5.15'
 end
