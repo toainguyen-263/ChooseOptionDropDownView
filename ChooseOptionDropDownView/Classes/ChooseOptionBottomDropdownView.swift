@@ -8,7 +8,7 @@
 
 import UIKit
 import SwiftMessages
-import IQKeyboardManagerSwift
+//import IQKeyboardManagerSwift
 
 
 public class ChooseOptionBottomDropdownView: UIView {
@@ -156,7 +156,7 @@ public class ChooseOptionBottomDropdownView: UIView {
     
     
  @objc func willHideKeyboard(notify: Notification) {
-    IQKeyboardManager.shared.shouldResignOnTouchOutside = true
+//    IQKeyboardManager.shared.shouldResignOnTouchOutside = true
     self.cTraintBottom.constant = UIApplication.bottomMargin
     self.configSection(margin: 0)
     self.layoutIfNeeded()
@@ -166,7 +166,7 @@ public class ChooseOptionBottomDropdownView: UIView {
 
  @objc func willShowKeyboard(notify: Notification) {
      print(#function)
-    IQKeyboardManager.shared.shouldResignOnTouchOutside = false
+//    IQKeyboardManager.shared.shouldResignOnTouchOutside = false
      if let keyboardFrame: NSValue = notify.userInfo?[UIResponder.keyboardFrameEndUserInfoKey] as? NSValue {
          let keyboardRectangle = keyboardFrame.cgRectValue
          let keyboardHeight = keyboardRectangle.height
@@ -185,7 +185,7 @@ public class ChooseOptionBottomDropdownView: UIView {
     
     @IBAction func onTouchClose(_ sender: Any) {
         SwiftMessages.hide()
-        IQKeyboardManager.shared.shouldResignOnTouchOutside = true
+//        IQKeyboardManager.shared.shouldResignOnTouchOutside = true
     }
     
     public func show() {
@@ -196,11 +196,11 @@ public class ChooseOptionBottomDropdownView: UIView {
         config.presentationStyle = .bottom
         config.eventListeners.append { event in
             if case .didHide = event {
-                IQKeyboardManager.shared.shouldResignOnTouchOutside = true
+//                IQKeyboardManager.shared.shouldResignOnTouchOutside = true
                 self.didHide?(self)
             } else if case .willHide = event {
                 self.willHide?(self)
-                IQKeyboardManager.shared.shouldResignOnTouchOutside = true
+//                IQKeyboardManager.shared.shouldResignOnTouchOutside = true
                 self.endEditing(true)
             } else if case .willShow = event {
                 self.willShow?(self)

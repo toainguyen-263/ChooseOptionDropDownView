@@ -7,7 +7,7 @@
 
 import Foundation
 import SwiftMessages
-import IQKeyboardManagerSwift
+//import IQKeyboardManagerSwift
 
 @objc public protocol DropDownItemSearchable: AnyObject {
     func getTextSearch() -> String
